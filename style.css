@@ -18,8 +18,22 @@ body {
     margin-bottom: 20px;
 }
 
+.caixa-imagens{
+    margin-top: 20px;
+    position: relative;
+}
+
 .imagem-celular {
-    width: 520px;
+    width: 450px;
+    max-width: 100%;
+}
+
+.imagem-insta{
+    height: 520px;
+    max-width: 100%;
+    position: absolute;
+    left: 153px;
+    top: 26px;
 }
 
 .caixa-form {
